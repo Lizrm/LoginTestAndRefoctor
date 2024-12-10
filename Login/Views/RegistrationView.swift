@@ -53,6 +53,8 @@ struct RegistrationView: View {
         }
         .padding()
     }
+    
+    
     func register() {
         _ = userValidator.registerUser(details)
         dismiss()

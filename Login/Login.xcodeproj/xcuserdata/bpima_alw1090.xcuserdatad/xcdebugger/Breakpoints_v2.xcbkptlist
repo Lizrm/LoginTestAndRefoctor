@@ -46,8 +46,8 @@
             filePath = "ViewModels/LoginValidator.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "12"
-            endingLineNumber = "12"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
             landmarkName = "authenticateUser(_:_:)"
             landmarkType = "7">
          </BreakpointContent>
